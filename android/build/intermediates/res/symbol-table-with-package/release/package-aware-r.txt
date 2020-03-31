@@ -1,0 +1,12 @@
+co.acoustic.mobile.push.plugin.inbox
+drawable ic_action_back
+drawable ic_action_forward
+id action_back
+id action_done
+id action_forward
+id webView
+layout activity_action_webview
+menu menu_action_webview
+string action_back
+string action_done
+string action_forward
